@@ -1,0 +1,162 @@
+body {
+    background-color: #7FA39C;
+    margin: 0;
+}
+
+.nav-bar{
+    float: left;
+}
+
+header {
+    height:117px;
+    background: #676161;
+}
+
+.background-logo {
+    position: absolute;
+    left: 1.98%;
+    right: 77.14%;
+    top: 2.96%;
+    bottom: 78.7%;
+    background: #2F8686;
+}
+
+.background-news{
+    position: absolute;
+    left: 28.23%;
+    right: 61.77%;
+    top: 2.04%;
+    bottom: 91.39%;
+    background: #C4C4C4;
+    border-radius: 50px;
+
+}
+
+.news{
+    position: absolute;
+    left: 28.05%;
+    right: 63.7%;
+    top: 12.87%;
+    bottom: 92.04%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+    color: #000000;
+}
+
+.background-discu{
+    position: absolute;
+    left: 42.03%;
+    right: 48.07%;
+    top: 2.04%;
+    bottom: 91.39%;
+    background: #C4C4C4;
+    border-radius: 50px;
+}
+
+.discu{
+    position: absolute;
+    left: 27.85%;
+    right: 49.9%;
+    top: 12.87%;
+    bottom: 92.13%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+    color: #000000;
+}
+
+.background-doc{
+    position: absolute;
+    left: 55.73%;
+    right: 34.32%;
+    top: 2.04%;
+    bottom: 91.39%;
+    background: #C4C4C4;
+    border-radius: 50px;
+
+}
+
+.doc{
+    position: absolute;
+    left: 33.55%;
+    right: 36.2%;
+    top: 12.87%;
+    bottom: 92.13%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+    color: #000000;
+}
+
+.background-contact{
+    position: absolute;
+    left: 69.48%;
+    right: 20.52%;
+    top: 2.13%;
+    bottom: 91.3%;
+    background: #C4C4C4;
+    border-radius: 50px;
+}
+
+.contact{
+    position: absolute;
+    left: 19.05%;
+    right: 21.04%;
+    top: 12.87%;
+    bottom: 92.04%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+    color: #000000;
+}
+
+.background-conect{
+    position: absolute;
+    left: 86.67%;
+    right: 6.04%;
+    top: 2.13%;
+    bottom: 91.3%;
+
+    background: #C4C4C4;
+    border-radius: 50px;
+}
+
+.connect{
+    position: absolute;
+    left: 8.24%;
+    right: 6.61%;
+    top: 22.61%;
+    bottom: 91.3%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #000000;
+    text-decoration: none;
+}
+
+.background-user-settings{
+    position: absolute;
+    left: 95.21%;
+    right: 1.09%;
+    top: 2.13%;
+    bottom: 91.3%;
+    background: #C4C4C4;
+    border-radius: 50px;
+}
+
