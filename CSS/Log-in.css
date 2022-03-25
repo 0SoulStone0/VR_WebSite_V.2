@@ -1,0 +1,72 @@
+body {
+    background-color: #7FA39C;
+ }
+  
+ #FondFormulaireLog-in {
+    position: absolute;
+    left: 34.38%;
+    right: 34.38%;
+    top: 12.96%;
+    bottom: 12.96%;
+    background: #C4C4C4;
+    border-radius: 50px;
+ }
+  
+ #E-mail {
+    position: absolute;
+    left: 37.55%;
+    right: 37.55%;
+    top: 23.15%;
+    bottom: 66.3%;
+    background: #B5B4B4;
+    border-radius: 50px;
+ }
+  
+ #passeword{
+    position: absolute;
+    left: 37.55%;
+    right: 37.55%;
+    top: 38.24%;
+    bottom: 51.2%;
+    background: #B5B4B4;
+    border-radius: 50px;
+ }
+  
+ #Continute {
+    position: absolute;
+    left: 43.91%;
+    right: 43.96%;
+    top: 75.19%;
+    bottom: 21.57%;
+    background: #B5B4B4;
+    border-radius: 50px;
+ }
+  
+ #Connexion {
+    position: absolute;
+    left: 43.91%;
+    right: 43.96%;
+    top: 81.3%;
+    bottom: 15.46%;
+    background: #B5B4B4;
+    border-radius: 50px;
+ }
+  
+ #Retour {
+    position: absolute;
+    left: 1.77%;
+    right: 90.16%;
+    top: 3.89%;
+    bottom: 90.46%;
+    background: #B5B4B4;
+    border-radius: 50px;
+ }
+  
+ #connectLOG-IN a{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    left: 25.91%;
+    top: 20.93%;
+ }
+ 
