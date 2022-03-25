@@ -81,11 +81,26 @@ body {
     bottom: 90.46%;
     background: #B5B4B4;
     border-radius: 50px;
- }
+}
+
 #connectSign-IN a{
     position: absolute;
     text-decoration: none;
     color: black;
-    left: 25.91%;
+    left: 32.91%;
     top: 20.93%;
+}
+
+#retourAccueil {
+   position: absolute;
+   right: 40.57%;
+   top: 4.35%;
+   bottom: 92.5%;
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 40px;
+   line-height: 48px;
+   color: #000000;
+   text-decoration: none;   
 }

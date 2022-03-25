@@ -70,3 +70,16 @@ body {
     top: 20.93%;
  }
  
+#RetourAccueil {
+   position: absolute;
+   right: 40.57%;
+   top: 4.35%;
+   bottom: 92.5%;
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 40px;
+   line-height: 48px;
+   color: #000000;
+   text-decoration: none;
+}
